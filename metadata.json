@@ -1,0 +1,6 @@
+{
+  "name": "Hatly Admin Dashboard",
+  "description": "لوحة تحكم إدارة خدمة توصيل هاتلي (Hatly) لإدارة الطلبات والمناديب والمتاجر والتسعير والتوزيع التلقائي.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
